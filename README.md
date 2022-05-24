@@ -2,7 +2,7 @@
 
 <p>👋 &nbsp;Hi I'm Hong Wang (Hom) </p>
 <p>✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on Vue, Nuxt, Vite & UnoCSS &nbsp; ✨</p>
-<p>✨ &nbsp;Backend engineers 🧑🏻‍💻 Focus on Node, Golang, Next & Gin &nbsp; ✨</p>
+<p>✨ &nbsp;Backend Engineers 🧑🏻‍💻 Focus on Node, Golang, Next & Gin &nbsp; ✨</p>
 
 Creator of [Nuxt-ui](https://github.com/516310460/NuxtUI), a awesome ui library.
 
