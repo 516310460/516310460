@@ -4,7 +4,7 @@
 <p>✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on Vue, Nuxt, Vite & UnoCSS &nbsp; ✨</p>
 <p>✨ &nbsp;Backend Engineers 🧑🏻‍💻 Focus on Node, Golang, Next & Gin &nbsp; ✨</p>
 
-Creator of [Nuxt-ui](https://github.com/516310460/NuxtUI), a awesome ui library.
+Creator of [Nuxt-ui](https://github.com/516310460/nuxt-ui), a awesome ui library.
 
 ## 🛠 &nbsp;Tech Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
