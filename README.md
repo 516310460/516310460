@@ -17,7 +17,7 @@ Welcome, name's **HomWang** (:computer::dark_sunglasses: :smirk_cat:)
 - :smirk_cat: Making the web better.
 
 ## _Languages_
-- :zh: Chinese (_Native_)
+- :zh-CN: Chinese (_Native_)
 - :us: English (_Conversational_)
 
 ## 🛠 &nbsp;Tech Stack
