@@ -7,8 +7,8 @@ Welcome, name's **HomWang** (:computer::dark_sunglasses: :smirk_cat:)
 - :globe_with_meridians: HTML.
 - :art: CSS.
 - :gear: JavaScript.
-- :large_blue_circle: ✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on React, Next, Vue3, Nuxt3, Vite & UnoCSS &nbsp; ✨
-- :red_circle: ✨ &nbsp;Backend Engineers 🧑🏻‍💻 Focus on Node, Golang, Nest & Gin &nbsp; ✨
+- ✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on React, Next, Vue3, Nuxt3, Vite & UnoCSS &nbsp; ✨
+- ✨ &nbsp;Backend Engineers 🧑🏻‍💻 Focus on Node, Golang, Nest & Gin &nbsp; ✨
 
 ## _Focused on:_
 - :trophy: Web Design.
