@@ -1,10 +1,24 @@
 ## 🦸🏻‍♂️ &nbsp;About Me
 
-<p>👋 &nbsp;Hi I'm Hong Wang (Hom) </p>
-<p>✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on Vue, Nuxt, Vite & UnoCSS &nbsp; ✨</p>
-<p>✨ &nbsp;Backend Engineers 🧑🏻‍💻 Focus on Node, Golang, Next & Gin &nbsp; ✨</p>
+Welcome, name's **HomWang** (:computer::dark_sunglasses: :smirk_cat:)
 
-Creator of [Nuxt-ui](https://github.com/516310460/nuxt-ui), a awesome ui library.
+## _I'm a Frontend Developer with more than 8 years of experience in:_
+
+- :globe_with_meridians: HTML.
+- :art: CSS.
+- :gear: JavaScript.
+- :large_blue_circle: ✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on React, Next, Vue3, Nuxt3, Vite & UnoCSS &nbsp; ✨
+- :red_circle: ✨ &nbsp;Backend Engineers 🧑🏻‍💻 Focus on Node, Golang, Nest & Gin &nbsp; ✨
+
+## _Focused on:_
+- :trophy: Web Design.
+- :rocket: Fast Loading websites and apps.
+- :closed_book: Learning new technologies.
+- :smirk_cat: Making the web better.
+
+## _Languages_
+- :es: Chinese (_Native_)
+- :us: English (_Conversational_)
 
 ## 🛠 &nbsp;Tech Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
