@@ -18,7 +18,7 @@ Welcome, name's **HomWang** (:computer::dark_sunglasses: :smirk_cat:)
 
 ## _Languages_
 - 🇨🇳 Chinese (_Native_)
-- :us: English (_Conversational_)
+- 🇬🇧 English (_Conversational_)
 
 ## 🛠 &nbsp;Tech Stack
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
