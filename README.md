@@ -2,7 +2,7 @@
 
 Welcome, name's **HomWang** (:computer::dark_sunglasses: :smirk_cat:)
 
-## _I'm a Frontend Developer with more than 8 years of experience in:_
+## _I'm a Frontend Developer with more than 9 years of experience in:_
 
 - :globe_with_meridians: HTML.
 - :art: CSS.
