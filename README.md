@@ -9,6 +9,7 @@ My personal website: [hom.wang](https://hom.wang/)
 - :globe_with_meridians: HTML.
 - :art: CSS.
 - :gear: JavaScript.
+- :gear: Rust.
 - ✨ &nbsp;Front-end Engineer 🧑🏻‍💻 Focus on React, Next, Vue3, Nuxt3, Vite & UnoCSS &nbsp; ✨
 - ✨ &nbsp;Backend Engineers 🧑🏻‍💻 Focus on Node, Golang, Nest & Gin &nbsp; ✨
 
